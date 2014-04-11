@@ -10,7 +10,7 @@ jettyRun {
 
 jettyStop {
     stopPort = 8081
-    stopKey = 'stopKey'
+    stopKey = 'secret'
 }
 
 repositories {
